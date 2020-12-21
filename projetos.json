@@ -6,9 +6,45 @@
     "longitude" : -43.18337
   },
   {
-    "key" : "PSA",
+    "key" : "Projeto São João",
     "name" : "Projeto São João",
     "latitude" : -20.67580,
     "longitude" : -43.77748
-  }
+  },
+  {
+    "key" : "Projeto Barreira",
+    "name" : "Projeto Barreira",
+    "latitude" : -20.63199,
+    "longitude" : -43.81291
+  },
+  {
+    "key" : "Projeto Cachoeira",
+    "name" : "Projeto Cachoeira",
+    "latitude" : -20.65187,
+    "longitude" : -43.79808
+  },
+  {
+    "key" : "Projeto Campo Alegre",
+    "name" : "Projeto Campo Alegre",
+    "latitude" : -20.65565,
+    "longitude" : -43.78767
+  },
+  {
+    "key" : "Projeto Carijós",
+    "name" : "Projeto Carijós",
+    "latitude" : -20.67015,
+    "longitude" : -43.79638
+  },
+  {
+    "key" : "Projeto Centro",
+    "name" : "Projeto Centro",
+    "latitude" : -20.66030,
+    "longitude" : -43.79083
+  },
+  {
+    "key" : "Projeto Chapada",
+    "name" : "Projeto Chapada",
+    "latitude" : -20.65549,
+    "longitude" : -43.77855
+  },
 ]
