@@ -2,49 +2,127 @@
   {
     "key" : "Projeto Angelica",
     "name" : "Projeto Angelica",
-    "latitude" : -20.66929,
-    "longitude" : -43.18337
+    "latitude" : -20.666318,
+    "longitude" : -43.7832236
   },
   {
     "key" : "Projeto São João",
     "name" : "Projeto São João",
-    "latitude" : -20.67580,
-    "longitude" : -43.77748
+    "latitude" : -20.6750889,
+    "longitude" : -43.7776671
   },
   {
     "key" : "Projeto Barreira",
     "name" : "Projeto Barreira",
-    "latitude" : -20.63199,
-    "longitude" : -43.81291
+    "latitude" : -20.6389933,
+    "longitude" : -43.8146709
   },
   {
     "key" : "Projeto Cachoeira",
     "name" : "Projeto Cachoeira",
-    "latitude" : -20.65187,
-    "longitude" : -43.79808
+    "latitude" : -20.6516765,
+    "longitude" : -43.7989122
   },
   {
     "key" : "Projeto Campo Alegre",
     "name" : "Projeto Campo Alegre",
-    "latitude" : -20.65565,
-    "longitude" : -43.78767
+    "latitude" : -20.6555468,
+    "longitude" : -43.7910286
   },
   {
     "key" : "Projeto Carijós",
     "name" : "Projeto Carijós",
-    "latitude" : -20.67015,
-    "longitude" : -43.79638
+    "latitude" : -20.6700324,
+    "longitude" : -43.7966244
   },
   {
     "key" : "Projeto Centro",
     "name" : "Projeto Centro",
-    "latitude" : -20.66030,
-    "longitude" : -43.79083
+    "latitude" : -20.6593059,
+    "longitude" : -43.7906889
   },
   {
     "key" : "Projeto Chapada",
     "name" : "Projeto Chapada",
-    "latitude" : -20.65549,
-    "longitude" : -43.77855
-  }
+    "latitude" : -20.6560368,
+    "longitude" :  -43.7800318
+  },
+  {
+    "key" : "Projeto Moinhos",
+    "name" : "Projeto Moinhos",
+    "latitude" : -20.6744413,
+    "longitude" :  -43.7675821
+  },
+  {
+    "key" : "Projeto Morada do Sol",
+    "name" : "Projeto Morada do Sol",
+    "latitude" : -20.6401814,
+    "longitude" :  -43.7824433
+  },
+  {
+    "key" : "Projeto Moro da Mina",
+    "name" : "Projeto Moro da Mina",
+    "latitude" : -20.6442837,
+    "longitude" :  -43.7732112
+  },
+  {
+    "key" : "Projeto Museu",
+    "name" : "Projeto Museu",
+    "latitude" : -20.6535556,
+    "longitude" :  -43.7828583
+  },  
+  {
+    "key" : "Projeto Novo Horizonte",
+    "name" : "Projeto Novo Horizonte",
+    "latitude" : -20.6580485,
+    "longitude" :  -43.7554585
+  },
+  {
+    "key" : "Projeto Progresso",
+    "name" : "Projeto Progresso",
+    "latitude" : -20.6667998,
+    "longitude" :  -43.7775158
+  },
+  {
+    "key" : "Projeto Sagrado Coração",
+    "name" : "Projeto Sagrado Coração",
+    "latitude" : -20.6521522,
+    "longitude" :  -43.7739732
+  },
+  {
+    "key" : "Projeto Santa Matilde",
+    "name" : "Projeto Santa Matilde",
+    "latitude" : -20.6822406,
+    "longitude" :  -43.7869262
+  },
+  {
+    "key" : "Projeto Santo Antônio",
+    "name" : "Projeto Santo Antônio",
+    "latitude" : -20.6597365,
+    "longitude" :  -43.7814943
+  },
+  {
+    "key" : "Projeto Satélite",
+    "name" : "Projeto Satélite",
+    "latitude" : -20.6381123,
+    "longitude" :  -43.8091865
+  },
+  {
+    "key" : "Projeto Sion",
+    "name" : "Projeto Sion",
+    "latitude" : -20.6819551,
+    "longitude" :  -43.7722424
+  },
+  {
+    "key" : "Projeto São Dimas",
+    "name" : "Projeto São Dimas",
+    "latitude" : -20.6686682,
+    "longitude" :  -43.8075703
+  },
+  {
+    "key" : "Projeto Vila Resende",
+    "name" : "Projeto Vila Resende",
+    "latitude" : -20.6507796,
+    "longitude" :  -43.7692933
+  },
 ]
